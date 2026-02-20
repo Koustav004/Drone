@@ -1,0 +1,5 @@
+{
+  "name": "Drone Acharya Dashboard",
+  "description": "A sophisticated dashboard for monitoring drone-based pothole detection, featuring real-time data analysis and video playback.",
+  "requestFramePermissions": []
+}
